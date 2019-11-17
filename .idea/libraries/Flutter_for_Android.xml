@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter for Android">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Projects/flutter/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/slf4j-jdk14-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/tincan-0.3.1-SNAPSHOT-jar-with-dependencies-jarjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
